@@ -1,0 +1,3 @@
+The text being german and the apparent settings indicate that this is an enigma cipher.
+
+Cyberchef recently got support for enigma, so just use google translate and input the settings listed to get the flag
