@@ -1,0 +1,1 @@
+These hashes are easily cracked by using crackstation for instance. Yielding the flag
