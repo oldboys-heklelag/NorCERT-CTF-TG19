@@ -1,0 +1,1 @@
+Run strings on the file to see the IP, and further up you can see the only thing that looks like a request is /FwKT

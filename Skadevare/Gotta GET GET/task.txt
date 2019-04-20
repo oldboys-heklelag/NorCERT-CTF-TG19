@@ -1,0 +1,5 @@
+Gotta GET GET
+125
+
+Svar: NCTG{IP/PATH} på requesten shellcoden gjør.
+
